@@ -97,3 +97,4 @@ twistd.pid
 # scrapy
 items/
 dbs/
+setup.py
