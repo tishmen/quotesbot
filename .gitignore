@@ -95,4 +95,5 @@ ENV/
 twistd.pid
 
 # scrapy
+items/
 dbs/
